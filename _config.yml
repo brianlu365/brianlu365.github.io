@@ -9,5 +9,3 @@ github_username:  brianlu365
 
 # Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
