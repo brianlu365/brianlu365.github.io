@@ -83,7 +83,7 @@ But Hackthon is awesome. I learned and did a lot in very short amound of time. I
 we didn't win anything, I actually feel pretty good this time. It is a good test on my capability of learning and problem solving. 
 
 I did many things for the first time:
-* setup server for hosting on Digital Ocean 
-* deploy with Capistrano https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
+** setup server for hosting on Digital Ocean 
+** deploy with Capistrano https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
 
 
