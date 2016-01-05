@@ -68,6 +68,7 @@ to deploy it. From what I read so far, you will need to run two servers and list
 websocket request.
 
 ##IFTTT
+
 I knew what IFTTT is but never use it much. I used to get email about daily deals using IFTTT. It seems it has grown a lot with many
 third party support. Such as you can implement logic for Amazon Echo. 
 
@@ -76,6 +77,7 @@ At the hackathon we couldn't define callback trigger for m2x on android, then th
 Here is an example https://ifttt.com/recipes/368284-at-t-m2x-trigger-example
 
 ##Conclusion
+
 I probably slept less than 5 hrs on Saterday, my eyes hurts and I think I probably gained some weight for sitting so long and eating 
 too much yummy food they provide. 
 
@@ -83,7 +85,7 @@ But Hackthon is awesome. I learned and did a lot in very short amound of time. I
 we didn't win anything, I actually feel pretty good this time. It is a good test on my capability of learning and problem solving. 
 
 I did many things for the first time:
-** setup server for hosting on Digital Ocean 
-** deploy with Capistrano https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
+* setup server for hosting on Digital Ocean 
+* deploy with Capistrano https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma
 
 
